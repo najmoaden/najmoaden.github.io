@@ -35,14 +35,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Najmo Aden
-  email:  # change to your email address
+  email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/NajmoAden # change to your Twitter homepage
     - https://github.com/najmoden # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/najmoaden
+    - https://www.linkedin.com/in/najmoaden
 
 # Site Verification Settings
 webmaster_verifications:
