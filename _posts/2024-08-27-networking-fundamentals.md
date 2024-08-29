@@ -5,7 +5,7 @@ categories: [CompTIA, Network+]
 tag: [comptia, network+]
 ---
 
- # 1.0 Networking Fundamentals: Understanding the OSI Model and Data Encapsulation
+# 1.0 Networking Fundamentals: Understanding the OSI Model and Data Encapsulation
 
 In the world of networking, the Open Systems Interconnection (OSI) model serves as the foundation for understanding how data is transmitted across networks. As a network professional, having a clear grasp of this model and the process of data encapsulation and decapsulation is critical for diagnosing and troubleshooting network issues. In this section, we will break down the seven layers of the OSI model and explore the key concepts of data encapsulation.
 
