@@ -1,8 +1,8 @@
 ---
-title: Networking Fundamentals
+title: OSI Model and Data Encapsulation
 date: 2024-08-27
 categories: [CompTIA, Network+]
-tag: [comptia, network+]
+tag: [comptia, network+, Networking Fundamentals]
 ---
 
 # 1.0 Networking Fundamentals: Understanding the OSI Model and Data Encapsulation
